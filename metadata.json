@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Flow Canvas",
+  "description": "An interactive canvas to create and connect nodes. Features text nodes with Markdown support and LLM nodes that can trigger the Gemini API to generate content.",
+  "requestFramePermissions": []
+}
